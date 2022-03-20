@@ -1,6 +1,6 @@
-# VerdantPages - Contact list written in python ( WIP ).
-
-## Need to make some functions for connecting and creating the db ( if not exists ).  Will have to do manually for now ( will be fixed shortly ).
+# VerdantPages - Contact list written in python ( WIP ).  
+Need to make some functions for connecting and creating the db ( if not exists ).  
+Will have to do manually for now ( will be fixed shortly ).
 
 ## Setup
 $ cd db/ && sqlite3 contactsDb
