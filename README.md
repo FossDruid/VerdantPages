@@ -8,7 +8,8 @@ $ cd db/ && sqlite3 contactsDb
 CREATE TABLE contacts(name varchar(80), email varchar(120), phoneNum int(16));
 
 #### Test if works
-INSERT INTO contacts VALUES("TestName", "Email@Email.com", 12345678910);
+INSERT INTO contacts VALUES("TestName", "Email@Email.com", 12345678910);  
 SELECT * FROM contacts;
 
-then interrupt and run program normally.
+#### then interrupt and run program normally.
+$ python3 main.py
